@@ -2,202 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04b0bb15-7525-463f-9316-58abfd00ab22" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__nz_net_ultraq_thymeleaf_thymeleaf_layout_dialect_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ognl_ognl_3_0_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_4_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_0_12_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_0_12_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_0_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_10_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_12_8.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_1_5_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_1_5_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_1_5_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_1_5_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_1_5_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_13_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_1_11_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_4_2_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_4_2_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_4_2_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_3_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_2_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring4_2_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_0_RELEASE.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sesh-messenger-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Sesh-messenger-api.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ie/sesh/Application.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ie/sesh/Controllers/MessageController.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ie/sesh/Models/Impl/MessageDAOImpl.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ie/sesh/Models/Message.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ie/sesh/Models/MessageDAO.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ie/sesh/Services/MessageService.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ie/sesh/Utils/MessageUtils.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ie/sesh/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/META-INF/maven/ie.sesh/sesh-messenger-api/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/META-INF/maven/ie.sesh/sesh-messenger-api/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ie/sesh/Application$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ie/sesh/Application$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ie/sesh/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ie/sesh/Controllers/MessageController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ie/sesh/Models/Impl/MessageDAOImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ie/sesh/Models/Impl/MessageMapper$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ie/sesh/Models/Impl/MessageMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ie/sesh/Models/Message.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ie/sesh/Models/MessageDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ie/sesh/Services/MessageService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ie/sesh/Utils/MessageUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ie/sesh/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/antlr-2.7.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/aspectjweaver-1.8.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/classmate-1.3.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/dom4j-1.6.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/groovy-2.4.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/guava-18.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/hibernate-commons-annotations-5.0.1.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/hibernate-core-5.0.12.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/hibernate-entitymanager-5.0.12.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/hibernate-validator-5.3.4.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/jackson-annotations-2.8.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/jackson-core-2.8.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/jackson-databind-2.8.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/jandex-2.0.0.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/javassist-3.21.0-GA.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/javax.transaction-api-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/jboss-logging-3.3.0.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/jcl-over-slf4j-1.7.24.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/json4s-ast_2.12-3.6.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/json4s-core_2.12-3.6.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/json4s-jackson_2.12-3.6.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/json4s-native_2.12-3.6.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/json4s-scalap_2.12-3.6.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/jul-to-slf4j-1.7.24.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/log4j-over-slf4j-1.7.24.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/logback-classic-1.1.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/logback-core-1.1.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/mysql-connector-java-8.0.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/ognl-3.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/paranamer-2.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/protobuf-java-2.6.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/scala-library-2.10.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/slf4j-api-1.7.24.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/snakeyaml-1.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/spring-aop-4.3.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/spring-aspects-4.3.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/spring-beans-4.3.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/spring-boot-1.5.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/spring-boot-autoconfigure-1.5.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/spring-boot-starter-1.5.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/spring-boot-starter-aop-1.5.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/spring-boot-starter-data-jpa-1.5.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/spring-boot-starter-jdbc-1.5.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/spring-boot-starter-logging-1.5.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/spring-boot-starter-security-1.5.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/spring-boot-starter-thymeleaf-1.5.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/spring-boot-starter-tomcat-1.5.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/spring-boot-starter-validation-1.5.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/spring-boot-starter-web-1.5.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/spring-context-4.3.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/spring-core-4.3.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/spring-data-commons-1.13.1.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/spring-data-jpa-1.11.1.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/spring-expression-4.3.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/spring-jdbc-4.3.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/spring-orm-4.3.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/spring-plugin-core-1.2.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/spring-plugin-metadata-1.2.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/spring-security-config-4.2.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/spring-security-core-4.2.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/spring-security-web-4.2.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/spring-tx-4.3.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/spring-web-4.3.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/spring-webmvc-4.3.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/springfox-core-2.4.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/springfox-schema-2.4.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/springfox-spi-2.4.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/springfox-spring-web-2.4.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/springfox-swagger-common-2.4.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/springfox-swagger-ui-2.4.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/springfox-swagger2-2.4.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/swagger-annotations-1.5.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/swagger-models-1.5.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/thymeleaf-2.1.5.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/thymeleaf-layout-dialect-1.4.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/thymeleaf-spring4-2.1.5.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/tomcat-embed-core-8.5.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/tomcat-embed-el-8.5.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/tomcat-embed-websocket-8.5.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/tomcat-jdbc-8.5.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/tomcat-juli-8.5.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/unbescape-1.1.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/validation-api-1.1.0.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/ExecutableArchiveLauncher$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/ExecutableArchiveLauncher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/InputArgumentsJavaAgentDetector$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/InputArgumentsJavaAgentDetector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/JarLauncher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/JavaAgentDetector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/LaunchedURLClassLoader$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/LaunchedURLClassLoader$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/LaunchedURLClassLoader$Java7LockProvider.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/LaunchedURLClassLoader$LockProvider.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/LaunchedURLClassLoader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/Launcher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/MainMethodRunner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/PropertiesLauncher$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/PropertiesLauncher$ArchiveEntryFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/PropertiesLauncher$PrefixMatchingArchiveFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/PropertiesLauncher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/WarLauncher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/archive/Archive$Entry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/archive/Archive$EntryFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/archive/Archive$EntryRenameFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/archive/Archive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/archive/ExplodedArchive$FileEntry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/archive/ExplodedArchive$FileNotFoundURLConnection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/archive/ExplodedArchive$FilteredURLStreamHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/archive/ExplodedArchive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/archive/FilteredArchive$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/archive/FilteredArchive$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/archive/FilteredArchive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/archive/JarFileArchive$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/archive/JarFileArchive$JarFileEntry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/archive/JarFileArchive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/data/ByteArrayRandomAccessData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/data/RandomAccessData$ResourceAccess.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/data/RandomAccessData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/data/RandomAccessDataFile$DataInputStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/data/RandomAccessDataFile$FilePool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/data/RandomAccessDataFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/jar/Bytes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/jar/CentralDirectoryEndRecord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/jar/Handler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/jar/JarEntry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/jar/JarEntryData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/jar/JarEntryFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/jar/JarFile$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/jar/JarFile$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/jar/JarFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/jar/JarURLConnection$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/jar/JarURLConnection$JarEntryName.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/jar/JarURLConnection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/jar/ZipInflaterInputStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/util/AsciiBytes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/org/springframework/boot/loader/util/SystemPropertyUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/sesh-messenger-api-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/sesh-messenger-api-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/sesh-messenger-api-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/sesh-messenger-api-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -251,8 +56,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/ie/sesh/Controllers/MessageController.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+            <state relative-caret-position="330">
+              <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -330,10 +135,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="961" />
+    <option name="width" value="1440" />
+    <option name="height" value="801" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -344,6 +149,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -413,7 +219,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -474,8 +279,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="801" extended-state="1" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
@@ -483,7 +287,7 @@
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.30543634" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.32689556" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
@@ -580,6 +384,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ie/sesh/Controllers/MessageController.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/ie/sesh/Application.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -587,13 +398,6 @@
           <folding>
             <element signature="e#17#66#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/ie/sesh/Controllers/MessageController.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
         </state>
       </provider>
     </entry>
