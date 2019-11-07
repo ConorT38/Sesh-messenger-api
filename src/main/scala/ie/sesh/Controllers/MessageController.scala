@@ -1,5 +1,7 @@
 package ie.sesh.Controllers
 
+import java.util
+
 import ie.sesh.Models.Message
 import ie.sesh.Services.MessageService
 import ie.sesh.Utils.MessageUtils
@@ -9,22 +11,29 @@ import org.springframework.http.{HttpHeaders, HttpStatus, ResponseEntity}
 import org.springframework.web.bind.annotation._
 
 @RestController
-@RequestMapping(path = Array("/"))
+@RequestMapping(path = Array("/api/messenger"))
 class MessageController(@Autowired val messageService: MessageService,
                         @Autowired val dataSource: DataSource,
                         @Autowired val messageUtils: MessageUtils) {
 
 
-  /*@GetMapping(path = Array("/recent/messages"))
-  def getRecentMessages(): Iterable[Message] = {
-    messageService.getRecentMessages
-  }*/
+  @GetMapping(path = Array("/recent/{conv_id}"))
+  def getRecentMessages(@PathVariable conv_id: Long) : ResponseEntity[String] = {
+    try{
+      return new ResponseEntity(messageUtils.buildJSON(messageService.getRecentMessages(conv_id).asInstanceOf[util.ArrayList[Message]]), new HttpHeaders, HttpStatus.OK)
+    }catch {
+      case e: Exception => return new ResponseEntity("Couldn't get messages", new HttpHeaders, HttpStatus.INTERNAL_SERVER_ERROR)
+    }
+  }
 
-  @PostMapping(path = Array("/create/message"))
-  def createUser(@RequestBody message_body: String): ResponseEntity[Unit] = {
+  @PostMapping(path = Array(""))
+  def createMessage(@RequestBody message_body: String): ResponseEntity[String] = {
     val message: Message = messageUtils.buildMessage(message_body)
-    val id = messageService.createMessage(message)
-    return new ResponseEntity(id, new HttpHeaders, HttpStatus.CREATED)
+    try {
+      messageService.createMessage(message)
+      return new ResponseEntity("Message sent",new HttpHeaders, HttpStatus.CREATED)
+    } catch {
+      case e: Exception => return new ResponseEntity(e.getMessage, new HttpHeaders, HttpStatus.INTERNAL_SERVER_ERROR)    }
   }
 }
 
